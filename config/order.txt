@@ -1,0 +1,16 @@
+1. schema/type_define
+2. schema/table_create
+3. schema/sequence_define
+4. schema/add_column
+5. schema/constraint_define
+6. data/insert_static
+7. data/insert_relational
+8. data/update_values
+9. data/delete_direct
+10. data/delete_cascade
+11. restore/reinsert
+12. restore/reupdate
+13. restore/redelete
+14. sequence_reset
+15. index/index_create
+16. meta/comment_define

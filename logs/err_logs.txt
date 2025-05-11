@@ -1,0 +1,17 @@
+❌ req_set.sh 실패
+❌ req_set.sh 실패
+❌ PostgreSQL 컨테이너에 연결 불가: port 6543
+❌ err_check.sh 실패
+❌ PostgreSQL 컨테이너에 연결 불가: port 6543
+❌ err_check.sh 실패
+❌ req_set.sh 실패
+❌ req_set.sh 실패
+❌ req_set.sh 실패
+❌ 변경 감지용 트리거가 존재하지 않습니다.
+❌ err_check.sh 실패
+❌ 변경 감지용 트리거가 존재하지 않습니다.
+❌ err_check.sh 실패
+[VERIFY ERROR] schema or data mismatch
+❌ req_set.sh 실패
+[VERIFY ERROR] schema or data mismatch
+[VERIFY ERROR] schema or data mismatch
